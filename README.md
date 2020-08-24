@@ -1,5 +1,7 @@
 This is the code developed for our paper "[Public policy and economic dynamics of COVID-19 spread: a mathematical modeling study](https://www.medrxiv.org/content/10.1101/2020.04.13.20062802v2)":
 
+Uri Goldsztejn, David Schwartzman, Arye Nehorai
+Washington University in St. Louis, 2020
 
 ## Content
 * Overview
@@ -17,7 +19,7 @@ Furthermore, we performed a sensitivity analysis to study the effect of reducing
 
 ## Files
 
-* *myofibre_code/* - The source code for the model and a makefile for the project.
+* myofibre_code/ - The source code for the model and a makefile for the project.
 
 * *myofibre_analysis* - Matlab scripts to read the simulation results and recreate the figures in the paper.
 
