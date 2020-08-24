@@ -4,6 +4,8 @@ Uri Goldsztejn, David Schwartzman, Arye Nehorai
 
 Washington University in St. Louis, 2020
 
+If you find this code useful in your research, please consider citing.
+
 ## Content
 * Overview
 * Files
