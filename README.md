@@ -1,6 +1,7 @@
 This is the code developed for our paper "[Public policy and economic dynamics of COVID-19 spread: a mathematical modeling study](https://www.medrxiv.org/content/10.1101/2020.04.13.20062802v2)":
 
 Uri Goldsztejn, David Schwartzman, Arye Nehorai
+
 Washington University in St. Louis, 2020
 
 ## Content
@@ -19,10 +20,13 @@ Furthermore, we performed a sensitivity analysis to study the effect of reducing
 
 ## Files
 
-* myofibre_code/ - The source code for the model and a makefile for the project.
+* *Code/baseline.m* - The code to simulate the baseline scenario described in our mansucript.
 
-* *myofibre_analysis* - Matlab scripts to read the simulation results and recreate the figures in the paper.
+* *Code/sudden_release.m* - The code to simulate the sudden release scenario described in our mansucript.
 
+* *Code/gradual_release.m* - The code to simulate the gradual release scenario described in our mansucript.
+
+* *Code/diff_system* - The system of differential equations described in our manuscript.
 
 ## Further materials
 A seminar about our work can be found [here](https://www.youtube.com/watch?v=a1qZjUVoe_E&t=1s)
