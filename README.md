@@ -1,7 +1,4 @@
-#Public policy and economic dynamics of COVID-19 spread: a mathematical modeling study
-[![DOI]](https://www.medrxiv.org/content/10.1101/2020.04.13.20062802v2)
-
-This is the code developed for our paper "Public policy and economic dynamics of COVID-19 spread: a mathematical modeling study":
+This is the code developed for our paper "[[Public policy and economic dynamics of COVID-19 spread: a mathematical modeling study]](https://www.medrxiv.org/content/10.1101/2020.04.13.20062802v2)":
 
 ## Content
 * Overview
