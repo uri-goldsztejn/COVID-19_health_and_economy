@@ -22,19 +22,19 @@ Furthermore, we performed a sensitivity analysis to study the effect of reducing
 
 ## Files
 
-* *Code/baseline.m* - The code to simulate the baseline scenario described in our mansucript.
+* *code/baseline.m* - The code to simulate the baseline scenario described in our mansucript.
 
-* *Code/sudden_release.m* - The code to simulate the sudden release scenario described in our mansucript.
+* *code/sudden_release.m* - The code to simulate the sudden release scenario described in our mansucript.
 
-* *Code/gradual_release.m* - The code to simulate the gradual release scenario described in our mansucript.
+* *code/gradual_release.m* - The code to simulate the gradual release scenario described in our mansucript.
 
-* *Code/sensitivity_analysis.m* - The code to analyze the sensitivity of the parameters that regulate public policy.
+* *code/sensitivity_analysis.m* - The code to analyze the sensitivity of the parameters that regulate public policy.
 
-* *Code/diff_system.m* - The system of differential equations described in our manuscript.
+* *code/diff_system.m* - The system of differential equations described in our manuscript.
 
-* *Code/diff_system_sensitivity.m* - The system of differential equations used for the sensitivity analysis.
+* *code/diff_system_sensitivity.m* - The system of differential equations used for the sensitivity analysis.
 
-* *Code/initial_conditions_simulation.m* - The code used to seed the pandemic and determine the initial conditions.
+* *code/initial_conditions_simulation.m* - The code used to seed the pandemic and determine the initial conditions.
 
 
 ## Further materials
