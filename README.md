@@ -6,6 +6,11 @@ Washington University in St. Louis, 2020
 
 *If you find this code useful in your research, please consider citing.*
 
+Prefered reference format:
+Public policy and economic dynamics of COVID-19 spread: a mathematical modeling study
+Uri Goldsztejn, David Schwartzman, Arye Nehorai
+medRxiv 2020.04.13.20062802; doi: https://doi.org/10.1101/2020.04.13.20062802
+
 ## Content
 * Overview
 * Files
