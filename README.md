@@ -6,16 +6,12 @@ Washington University in St. Louis, 2020
 
 *If you find this code useful in your research, please consider citing.*
 
-Prefered reference format:\
-Public policy and economic dynamics of COVID-19 spread: a mathematical modeling study\
-Uri Goldsztejn, David Schwartzman, Arye Nehorai\
-medRxiv 2020.04.13.20062802; doi: https://doi.org/10.1101/2020.04.13.20062802
-
 ## Content
 * Overview
 * Files
 * Further materials
-* Contact
+* Citation format
+<!--* Contact-->
 
 ## Overview
 
@@ -40,4 +36,9 @@ A seminar about our work can be found [here](https://www.youtube.com/watch?v=a1q
 
 A summary and a news article about our work can be found [here](https://www.ese.wustl.edu/~nehorai/research/Covid-19/Goldsztejn_Schwartzman_Nehorai_MedRxiv_2020.html)
 
+## Citation format
 
+Prefered reference format:\
+Public policy and economic dynamics of COVID-19 spread: a mathematical modeling study\
+Uri Goldsztejn, David Schwartzman, Arye Nehorai\
+medRxiv 2020.04.13.20062802; doi: https://doi.org/10.1101/2020.04.13.20062802
