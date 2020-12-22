@@ -45,6 +45,4 @@ A summary and a news article about our work can be found [here](https://www.ese.
 ## Citation format
 
 Prefered reference format:\
-Public policy and economic dynamics of COVID-19 spread: a mathematical modeling study\
-Uri Goldsztejn, David Schwartzman, Arye Nehorai\
-medRxiv 2020.04.13.20062802; doi: https://doi.org/10.1101/2020.04.13.20062802
+Goldsztejn U, Schwartzman D, Nehorai A (2020) Public policy and economic dynamics of COVID-19 spread: A mathematical modeling study. PLoS ONE 15(12): e0244174. https://doi.org/10.1371/journal.pone.0244174
