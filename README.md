@@ -1,4 +1,4 @@
-This is the code developed for our paper "[Public policy and economic dynamics of COVID-19 spread: a mathematical modeling study](https://www.medrxiv.org/content/10.1101/2020.04.13.20062802v2)":
+This is the code developed for our paper "[Public policy and economic dynamics of COVID-19 spread: a mathematical modeling study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244174)":
 
 Uri Goldsztejn, David Schwartzman, Arye Nehorai\
 Washington University in St. Louis, 2020
